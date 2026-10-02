@@ -1,5 +1,5 @@
-# Jovi AI — Ecossistema de Orientação e Desenvolvimento Juvenil
-
+# Jovi AI — Mentorando o Jovem no Mercado Profissional 
+Link de acesso: https://notebook.google.com/notebook/bdd8b93a-9df3-46a3-ba61-f9f8f4bcc96b
 ### Inteligência artificial, educação e autoconhecimento na construção de futuros.
 
 ## Sobre o projeto
@@ -146,8 +146,7 @@ Essas possibilidades representam objetivos futuros e não funcionalidades já im
 
 Este repositório reúne a documentação conceitual e a evolução do projeto Jovi AI.
 
-**Ambiente de pesquisa:** NotebookLM.
-
+**Ambiente de pesquisa:** NotebookLM. 
 ## Considerações finais
 
 O Jovi AI parte de uma ideia central: o futuro profissional não precisa ser uma escolha feita às cegas.
